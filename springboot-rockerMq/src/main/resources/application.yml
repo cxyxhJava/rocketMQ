@@ -1,0 +1,11 @@
+server:
+  port: ${port:8080}
+
+logging:
+  level:
+    com.tech.geely.zp.mapper: DEBUG
+# rocketMQ
+rocketmq:
+  name-server: url
+  producer:
+    group: springboot-rockermq-producer

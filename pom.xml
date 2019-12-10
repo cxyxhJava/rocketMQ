@@ -10,6 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>simple-example</module>
+        <module>order-example</module>
+        <module>springboot-rockerMq</module>
     </modules>
 
 
